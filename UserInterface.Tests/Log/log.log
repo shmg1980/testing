@@ -1,0 +1,443 @@
+2022-05-31 00:36:51 INFO - Starting tests in PromptTests.
+2022-05-31 00:36:52 DEBUG - Get settings from: settings.json
+2022-05-31 00:36:54 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 00:36:54 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 00:36:54 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 00:37:00 INFO - Browser 'Chrome' ready...
+2022-05-31 00:37:00 INFO - Loading config file of type MainConfig.
+2022-05-31 00:37:00 INFO - Deserializing JSON document as MainConfig. Source: mainconfig.json.
+2022-05-31 00:37:00 INFO - Beginning help form test.
+2022-05-31 00:37:00 INFO - Step #1: Navigating to home page.
+2022-05-31 00:37:00 INFO - Navigate to URL - 'https://userinyerface.com/'
+2022-05-31 00:37:01 INFO - Step #1: Asserting that home page is open.
+2022-05-31 00:37:01 INFO - Label 'Home Page' :: Waiting for element to be displayed
+2022-05-31 00:37:01 INFO - Step #1: Navigating to next page.
+2022-05-31 00:37:01 INFO - Link 'Next Page' :: Clicking
+2022-05-31 00:37:01 INFO - Waiting for page to load
+2022-05-31 00:37:01 INFO - Step #1: Asserting that game page is open.
+2022-05-31 00:37:01 INFO - Label 'Login Page' :: Waiting for element to be displayed
+2022-05-31 00:37:01 INFO - Step #2: Hiding help form.
+2022-05-31 00:37:01 INFO - Button 'Hide Help Form' :: Clicking
+2022-05-31 00:37:02 INFO - Step #2: Asserting that help form is not displayed.
+2022-05-31 00:37:02 INFO - Label 'Help' :: Waiting for element to be invisible or absent
+2022-05-31 00:37:13 DEBUG - Elements were found by locator 'By.XPath: //h2[@class='help-form__title']' but not in desired state Displayed
+2022-05-31 00:37:13 INFO - End of tests in PromptTests.
+2022-05-31 00:37:13 INFO - Closing browser
+2022-05-31 00:40:17 INFO - Starting tests in PromptTests.
+2022-05-31 00:40:18 DEBUG - Get settings from: settings.json
+2022-05-31 00:40:18 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 00:40:18 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 00:40:18 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 00:40:19 INFO - Browser 'Chrome' ready...
+2022-05-31 00:40:19 INFO - Loading config file of type MainConfig.
+2022-05-31 00:40:19 INFO - Deserializing JSON document as MainConfig. Source: mainconfig.json.
+2022-05-31 00:40:19 INFO - Beginning help form test.
+2022-05-31 00:40:19 INFO - Step #1: Navigating to home page.
+2022-05-31 00:40:19 INFO - Navigate to URL - 'https://userinyerface.com/'
+2022-05-31 00:40:21 INFO - Step #1: Asserting that home page is open.
+2022-05-31 00:40:21 INFO - Label 'Home Page' :: Waiting for element to be displayed
+2022-05-31 00:40:21 INFO - Step #1: Navigating to next page.
+2022-05-31 00:40:21 INFO - Link 'Next Page' :: Clicking
+2022-05-31 00:40:21 INFO - Waiting for page to load
+2022-05-31 00:40:21 INFO - Step #1: Asserting that game page is open.
+2022-05-31 00:40:21 INFO - Label 'Login Page' :: Waiting for element to be displayed
+2022-05-31 00:40:21 INFO - Step #2: Hiding help form.
+2022-05-31 00:40:21 INFO - Button 'Hide Help Form' :: Clicking
+2022-05-31 00:40:21 INFO - Step #2: Asserting that help form is not displayed.
+2022-05-31 00:40:21 INFO - Label 'Help' :: Waiting for element to be invisible or absent
+2022-05-31 00:40:33 DEBUG - Elements were found by locator 'By.XPath: //h2[@class='help-form__title']' but not in desired state Displayed
+2022-05-31 00:40:33 INFO - End of tests in PromptTests.
+2022-05-31 00:40:33 INFO - Closing browser
+2022-05-31 05:19:10 INFO - Starting tests in PromptTests.
+2022-05-31 05:19:10 DEBUG - Get settings from: settings.json
+2022-05-31 05:19:10 INFO - End of tests in PromptTests.
+2022-05-31 05:21:18 INFO - Starting tests in PromptTests.
+2022-05-31 05:21:18 DEBUG - Get settings from: settings.json
+2022-05-31 05:21:21 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 05:21:21 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+browser.download.dir: ./downloads,
+browser.download.folderList: 2,
+browser.helperApps.neverAsk.saveToDisk: application/octet-stream, application/x-debian-package, application/x-www-form-urlencod, application/json, application/x-compressed, application/x-zip-compressed, application/zip, multipart/x-zip, text/plain, text/csv,
+browser.helperApps.alwaysAsk.force: False,
+browser.download.manager.alertOnEXEOpen: False,
+browser.download.manager.focusWhenStarting: False,
+browser.download.useDownloadDir: True,
+browser.download.manager.showWhenStarting: False,
+browser.download.manager.closeWhenDone: True,
+browser.download.manager.showAlertOnComplete: False,
+browser.download.manager.useWindow: False,
+browser.download.panel.shown: False
+2022-05-31 05:21:28 INFO - Browser 'Firefox' ready...
+2022-05-31 05:21:28 INFO - Loading config file of type MainConfig.
+2022-05-31 05:21:28 INFO - Deserializing JSON document as MainConfig. Source: mainconfig.json.
+2022-05-31 05:21:28 INFO - Beginning help form test.
+2022-05-31 05:21:28 INFO - Step #1: Navigating to home page.
+2022-05-31 05:21:28 INFO - Navigate to URL - 'https://userinyerface.com/'
+2022-05-31 05:21:31 INFO - Step #1: Asserting that home page is open.
+2022-05-31 05:21:31 INFO - Label 'Home Page' :: Waiting for element to be displayed
+2022-05-31 05:21:31 INFO - Step #1: Navigating to next page.
+2022-05-31 05:21:31 INFO - Link 'Next Page' :: Clicking
+2022-05-31 05:21:31 INFO - Waiting for page to load
+2022-05-31 05:21:31 INFO - Step #1: Asserting that game page is open.
+2022-05-31 05:21:31 INFO - Label 'Login Page' :: Waiting for element to be displayed
+2022-05-31 05:21:31 INFO - Step #2: Hiding help form.
+2022-05-31 05:21:31 INFO - Button 'Hide Help Form' :: Clicking
+2022-05-31 05:21:31 INFO - Step #2: Asserting that help form is not displayed.
+2022-05-31 05:21:31 INFO - Label 'Help' :: Waiting for element to be invisible or absent
+2022-05-31 05:21:44 DEBUG - Elements were found by locator 'By.XPath: //h2[@class='help-form__title']' but not in desired state Displayed
+2022-05-31 05:21:44 INFO - End of tests in PromptTests.
+2022-05-31 05:21:44 INFO - Closing browser
+2022-05-31 05:22:07 INFO - Starting tests in PromptTests.
+2022-05-31 05:22:07 DEBUG - Get settings from: settings.json
+2022-05-31 05:22:07 INFO - End of tests in PromptTests.
+2022-05-31 05:33:24 INFO - Starting tests in PromptTests.
+2022-05-31 05:33:24 DEBUG - Get settings from: settings.json
+2022-05-31 05:33:26 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 05:33:26 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 05:33:26 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 05:33:28 INFO - End of tests in PromptTests.
+2022-05-31 05:36:49 INFO - Starting tests in PromptTests.
+2022-05-31 05:36:49 DEBUG - Get settings from: settings.json
+2022-05-31 05:36:50 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 05:36:50 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 05:36:50 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 05:36:51 INFO - End of tests in PromptTests.
+2022-05-31 05:42:15 INFO - Starting tests in PromptTests.
+2022-05-31 05:42:15 DEBUG - Get settings from: settings.json
+2022-05-31 05:42:16 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 05:42:16 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 05:42:16 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 05:42:17 INFO - End of tests in PromptTests.
+2022-05-31 05:48:16 INFO - Starting tests in PromptTests.
+2022-05-31 05:48:16 DEBUG - Get settings from: settings.json
+2022-05-31 05:48:17 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 05:48:17 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 05:48:17 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 05:48:18 INFO - End of tests in PromptTests.
+2022-05-31 06:05:09 INFO - Starting tests in PromptTests.
+2022-05-31 06:05:09 DEBUG - Get settings from: settings.json
+2022-05-31 06:05:10 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 06:05:10 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 06:05:10 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 06:05:11 INFO - End of tests in PromptTests.
+2022-05-31 06:11:21 INFO - Starting tests in PromptTests.
+2022-05-31 06:11:21 DEBUG - Get settings from: settings.json
+2022-05-31 06:11:21 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 06:11:21 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 06:11:22 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 06:11:22 INFO - End of tests in PromptTests.
+2022-05-31 06:19:34 INFO - Starting tests in PromptTests.
+2022-05-31 06:19:34 DEBUG - Get settings from: settings.json
+2022-05-31 06:19:34 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 06:19:34 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 06:19:34 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 06:19:35 INFO - End of tests in PromptTests.
+2022-05-31 06:20:46 INFO - Starting tests in PromptTests.
+2022-05-31 06:20:46 DEBUG - Get settings from: settings.json
+2022-05-31 06:20:49 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 06:20:49 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True
+2022-05-31 06:20:49 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 06:20:50 INFO - Browser 'Edge' ready...
+2022-05-31 06:20:50 INFO - Loading config file of type MainConfig.
+2022-05-31 06:20:50 INFO - Deserializing JSON document as MainConfig. Source: mainconfig.json.
+2022-05-31 06:20:50 INFO - Beginning help form test.
+2022-05-31 06:20:50 INFO - Step #1: Navigating to home page.
+2022-05-31 06:20:50 INFO - Navigate to URL - 'https://userinyerface.com/'
+2022-05-31 06:20:51 INFO - Step #1: Asserting that home page is open.
+2022-05-31 06:20:51 INFO - Label 'Home Page' :: Waiting for element to be displayed
+2022-05-31 06:20:51 INFO - Step #1: Navigating to next page.
+2022-05-31 06:20:51 INFO - Link 'Next Page' :: Clicking
+2022-05-31 06:20:51 INFO - Waiting for page to load
+2022-05-31 06:20:51 INFO - Step #1: Asserting that game page is open.
+2022-05-31 06:20:51 INFO - Label 'Login Page' :: Waiting for element to be displayed
+2022-05-31 06:20:51 INFO - Step #2: Hiding help form.
+2022-05-31 06:20:51 INFO - Button 'Hide Help Form' :: Clicking
+2022-05-31 06:20:51 INFO - Step #2: Asserting that help form is not displayed.
+2022-05-31 06:20:51 INFO - Label 'Help' :: Waiting for element to be invisible or absent
+2022-05-31 06:21:02 DEBUG - Elements were found by locator 'By.XPath: //h2[@class='help-form__title']' but not in desired state Displayed
+2022-05-31 06:21:02 INFO - End of tests in PromptTests.
+2022-05-31 06:21:02 INFO - Closing browser
+2022-05-31 06:22:52 INFO - Starting tests in PromptTests.
+2022-05-31 06:22:52 DEBUG - Get settings from: settings.json
+2022-05-31 06:22:52 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 06:22:52 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 06:22:52 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 06:22:53 INFO - End of tests in PromptTests.
+2022-05-31 06:24:44 INFO - Starting tests in PromptTests.
+2022-05-31 06:24:44 DEBUG - Get settings from: settings.json
+2022-05-31 06:24:45 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 06:24:45 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 06:24:45 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 06:24:46 INFO - End of tests in PromptTests.
+2022-05-31 06:28:51 INFO - Starting tests in PromptTests.
+2022-05-31 06:28:51 DEBUG - Get settings from: settings.json
+2022-05-31 06:28:54 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 06:28:54 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 06:28:54 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 06:28:55 INFO - End of tests in PromptTests.
+2022-05-31 06:32:27 INFO - Starting tests in PromptTests.
+2022-05-31 06:32:27 DEBUG - Get settings from: settings.json
+2022-05-31 06:32:27 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 06:32:27 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 06:32:27 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 06:32:28 INFO - End of tests in PromptTests.
+2022-05-31 06:41:11 INFO - Starting tests in PromptTests.
+2022-05-31 06:41:11 DEBUG - Get settings from: settings.json
+2022-05-31 06:41:12 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 06:41:12 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 06:41:12 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 06:41:12 INFO - End of tests in PromptTests.
+2022-05-31 06:41:28 INFO - Starting tests in PromptTests.
+2022-05-31 06:41:28 DEBUG - Get settings from: settings.json
+2022-05-31 06:41:29 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 06:41:29 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 06:41:29 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 06:41:29 INFO - End of tests in PromptTests.
+2022-05-31 06:46:19 INFO - Starting tests in PromptTests.
+2022-05-31 06:46:19 DEBUG - Get settings from: settings.json
+2022-05-31 06:46:19 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 06:46:19 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 06:46:19 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 06:46:20 INFO - End of tests in PromptTests.
+2022-05-31 06:47:58 INFO - Starting tests in PromptTests.
+2022-05-31 06:47:58 DEBUG - Get settings from: settings.json
+2022-05-31 06:47:58 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 06:47:58 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 06:47:58 DEBUG - Got browser start arguments from settings file: --headless
+2022-05-31 06:47:58 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 06:47:59 INFO - End of tests in PromptTests.
+2022-05-31 07:40:34 INFO - Starting tests in PromptTests.
+2022-05-31 07:40:34 DEBUG - Get settings from: settings.json
+2022-05-31 07:40:35 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 07:40:35 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 07:40:35 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 07:40:37 INFO - End of tests in PromptTests.
+2022-05-31 07:58:59 INFO - Starting tests in PromptTests.
+2022-05-31 07:58:59 DEBUG - Get settings from: settings.json
+2022-05-31 07:59:00 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 07:59:00 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 07:59:00 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 07:59:01 INFO - End of tests in PromptTests.
+2022-05-31 08:01:21 INFO - Starting tests in PromptTests.
+2022-05-31 08:01:21 DEBUG - Get settings from: settings.json
+2022-05-31 08:01:22 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 08:01:22 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 08:01:22 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 08:01:27 INFO - End of tests in PromptTests.
+2022-05-31 08:04:22 INFO - Starting tests in PromptTests.
+2022-05-31 08:04:22 DEBUG - Get settings from: settings.json
+2022-05-31 08:04:22 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 08:04:22 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 08:04:22 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 08:04:23 INFO - End of tests in PromptTests.
+2022-05-31 08:13:32 INFO - Starting tests in PromptTests.
+2022-05-31 08:13:32 DEBUG - Get settings from: settings.json
+2022-05-31 08:13:35 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2022-05-31 08:13:35 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-05-31 08:13:35 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2022-05-31 08:13:39 INFO - Browser 'Chrome' ready...
+2022-05-31 08:13:39 INFO - Loading config file of type MainConfig.
+2022-05-31 08:13:39 INFO - Deserializing JSON document as MainConfig. Source: mainconfig.json.
+2022-05-31 08:13:39 INFO - Beginning help form test.
+2022-05-31 08:13:39 INFO - Step #1: Navigating to home page.
+2022-05-31 08:13:39 INFO - Navigate to URL - 'https://userinyerface.com/'
+2022-05-31 08:13:41 INFO - Step #1: Asserting that home page is open.
+2022-05-31 08:13:41 INFO - Label 'Home Page' :: Waiting for element to be displayed
+2022-05-31 08:13:41 INFO - Step #1: Navigating to next page.
+2022-05-31 08:13:41 INFO - Link 'Next Page' :: Clicking
+2022-05-31 08:13:42 INFO - Waiting for page to load
+2022-05-31 08:13:42 INFO - Step #1: Asserting that game page is open.
+2022-05-31 08:13:42 INFO - Label 'Login Page' :: Waiting for element to be displayed
+2022-05-31 08:13:42 INFO - Step #2: Hiding help form.
+2022-05-31 08:13:42 INFO - Button 'Hide Help Form' :: Clicking
+2022-05-31 08:13:42 INFO - Step #2: Asserting that help form is not displayed.
+2022-05-31 08:13:42 INFO - Label 'Help' :: Waiting for element to be invisible or absent
+2022-05-31 08:13:53 DEBUG - Elements were found by locator 'By.XPath: //h2[@class='help-form__title']' but not in desired state Displayed
+2022-05-31 08:13:53 INFO - End of tests in PromptTests.
+2022-05-31 08:13:53 INFO - Closing browser

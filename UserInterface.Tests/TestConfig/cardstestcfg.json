@@ -1,0 +1,6 @@
+{
+  "minPasswordLength": 10,
+  "domain": ".com",
+  "interestsToSelect": 3,
+  "avatarImgPath": "Resources\\avatar.png"
+}

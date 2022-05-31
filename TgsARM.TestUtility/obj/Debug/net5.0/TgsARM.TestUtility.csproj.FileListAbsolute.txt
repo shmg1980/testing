@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\qa2\UserInterface.Tests\TgsARM.TestUtility\bin\Debug\net5.0\Input\inputsimcfg.json
+C:\Users\User\Desktop\qa2\UserInterface.Tests\TgsARM.TestUtility\bin\Debug\net5.0\mainconfig.json
+C:\Users\User\Desktop\qa2\UserInterface.Tests\TgsARM.TestUtility\bin\Debug\net5.0\TgsARM.TestUtility.deps.json
+C:\Users\User\Desktop\qa2\UserInterface.Tests\TgsARM.TestUtility\bin\Debug\net5.0\TgsARM.TestUtility.dll
+C:\Users\User\Desktop\qa2\UserInterface.Tests\TgsARM.TestUtility\bin\Debug\net5.0\TgsARM.TestUtility.pdb
+C:\Users\User\Desktop\qa2\UserInterface.Tests\TgsARM.TestUtility\obj\Debug\net5.0\TgsARM.TestUtility.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\qa2\UserInterface.Tests\TgsARM.TestUtility\obj\Debug\net5.0\TgsARM.TestUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\qa2\UserInterface.Tests\TgsARM.TestUtility\obj\Debug\net5.0\TgsARM.TestUtility.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\qa2\UserInterface.Tests\TgsARM.TestUtility\obj\Debug\net5.0\TgsARM.TestUtility.AssemblyInfo.cs
+C:\Users\User\Desktop\qa2\UserInterface.Tests\TgsARM.TestUtility\obj\Debug\net5.0\TgsARM.TestUtility.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\qa2\UserInterface.Tests\TgsARM.TestUtility\obj\Debug\net5.0\TgsARM.TestUtility.dll
+C:\Users\User\Desktop\qa2\UserInterface.Tests\TgsARM.TestUtility\obj\Debug\net5.0\TgsARM.TestUtility.pdb
+C:\Users\User\Desktop\qa2\UserInterface.Tests\TgsARM.TestUtility\obj\Debug\net5.0\ref\TgsARM.TestUtility.dll
+C:\Users\User\Desktop\qa2\UserInterface.Tests\TgsARM.TestUtility\bin\Debug\net5.0\ref\TgsARM.TestUtility.dll
